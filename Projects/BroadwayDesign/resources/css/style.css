@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+
+.head{
+  font-weight: bold;
+  color: white;
+  background-image: url("./../images/building.png");
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+.main h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.proc h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.proc p{
+  font-size: 14px;
+}
+
+.head h2 {
+  font-size: 32px;
+}
+
+footer{
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
